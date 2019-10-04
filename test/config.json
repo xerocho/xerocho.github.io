@@ -137,10 +137,6 @@
       "name": "Remove unused namespaces"
     },
     {
-      "id": "reusePaths",
-      "name": "Replace duplicate elements with links"
-    },
-    {
       "id": "sortAttrs",
       "name": "Sort attrs"
     },
